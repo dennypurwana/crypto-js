@@ -1,6 +1,9 @@
-# crypto-js
+# MOVED to brix/crypto-js
 
-Modularized port of googlecode project crypto-js.
+In April 2015 this repository moved to [brix/crypto-js](https://github.com/brix/crypto-js). This repository is just a fork not break code or stop people working who refer to this repository. But soon I'll delete this repository.
+
+DON NOT FORK OR REFER TO THIS REPOSITORY USE THE ORIGINAL ONE!
+
 
 ## Node.js (Install)
 
@@ -85,6 +88,7 @@ require(["crypto-js"], function (CryptoJS) {
     var encrypted = CryptoJS.AES(...);
     var encrypted = CryptoJS.SHA256(...);
 </script>
+```
 
 ## API
 
